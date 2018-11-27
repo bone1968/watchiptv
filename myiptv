@@ -1,0 +1,485 @@
+#EXTM3U
+#EXTINF:-1,US: ABC USA
+http://193.200.164.166:8000/live/dev554/az567h/8191.ts
+#EXTINF:-1,US: A&E HD
+http://193.200.164.166:8000/live/dev554/az567h/137339.ts
+#EXTINF:-1,US: ABC HD
+http://193.200.164.166:8000/live/dev554/az567h/137338.ts
+#EXTINF:-1,US: ABC news
+http://193.200.164.166:8000/live/dev554/az567h/130946.ts
+#EXTINF:-1,US: AFN Prime HD
+http://193.200.164.166:8000/live/dev554/az567h/137228.ts
+#EXTINF:-1,US: AFN SPORTS
+http://193.200.164.166:8000/live/dev554/az567h/130895.ts
+#EXTINF:-1,US: AFN SPORTS 1 HD
+http://193.200.164.166:8000/live/dev554/az567h/137227.ts
+#EXTINF:-1,US: AFN SPORTS 2
+http://193.200.164.166:8000/live/dev554/az567h/130894.ts
+#EXTINF:-1,US: AFN Spectrum HD
+http://193.200.164.166:8000/live/dev554/az567h/137336.ts
+#EXTINF:-1,US: AMC
+http://193.200.164.166:8000/live/dev554/az567h/130919.ts
+#EXTINF:-1,US: AMC HD
+http://193.200.164.166:8000/live/dev554/az567h/137332.ts
+#EXTINF:-1,US: Amazing Facts TV
+http://193.200.164.166:8000/live/dev554/az567h/130903.ts
+#EXTINF:-1,US: Animal Planet
+http://193.200.164.166:8000/live/dev554/az567h/130904.ts
+#EXTINF:-1,US: Animal Planet FHD
+http://193.200.164.166:8000/live/dev554/az567h/137421.ts
+#EXTINF:-1,US: Animal Planet HD
+http://193.200.164.166:8000/live/dev554/az567h/137449.ts
+#EXTINF:-1,US: BET HD
+http://193.200.164.166:8000/live/dev554/az567h/137447.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://193.200.164.166:8000/live/dev554/az567h/130893.ts
+#EXTINF:-1,US: Bloomberg
+http://193.200.164.166:8000/live/dev554/az567h/130945.ts
+#EXTINF:-1,US: Bloomberg HD
+http://193.200.164.166:8000/live/dev554/az567h/137420.ts
+#EXTINF:-1,US: Boomerang HD
+http://193.200.164.166:8000/live/dev554/az567h/137419.ts
+#EXTINF:-1,US: Bravo HD
+http://193.200.164.166:8000/live/dev554/az567h/130926.ts
+#EXTINF:-1,US: C-Span 1
+http://193.200.164.166:8000/live/dev554/az567h/137318.ts
+#EXTINF:-1,US: C-Span 2
+http://193.200.164.166:8000/live/dev554/az567h/137317.ts
+#EXTINF:-1,US: C-Span 3
+http://193.200.164.166:8000/live/dev554/az567h/137316.ts
+#EXTINF:-1,US: CA Sportsnet 360 HD
+http://193.200.164.166:8000/live/dev554/az567h/137315.ts
+#EXTINF:-1,US: CBS
+http://193.200.164.166:8000/live/dev554/az567h/130944.ts
+#EXTINF:-1,US: CBS 2
+http://193.200.164.166:8000/live/dev554/az567h/130943.ts
+#EXTINF:-1,US: CBS HD
+http://193.200.164.166:8000/live/dev554/az567h/137445.ts
+#EXTINF:-1,US: CBS Sports Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137444.ts
+#EXTINF:-1,US: CBSN HD
+http://193.200.164.166:8000/live/dev554/az567h/130942.ts
+#EXTINF:-1,US: CNBC
+http://193.200.164.166:8000/live/dev554/az567h/130941.ts
+#EXTINF:-1,US: CNBC HD
+http://193.200.164.166:8000/live/dev554/az567h/137326.ts
+#EXTINF:-1,US: CNN HD
+http://193.200.164.166:8000/live/dev554/az567h/130940.ts
+#EXTINF:-1,US: CNN News HD
+http://193.200.164.166:8000/live/dev554/az567h/137236.ts
+#EXTINF:-1,US: Cartoon Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137446.ts
+#EXTINF:-1,US: CineMax 5 StarMax
+http://193.200.164.166:8000/live/dev554/az567h/137311.ts
+#EXTINF:-1,US: CineMax Action HD
+http://193.200.164.166:8000/live/dev554/az567h/137309.ts
+#EXTINF:-1,US: CineMax East
+http://193.200.164.166:8000/live/dev554/az567h/137308.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://193.200.164.166:8000/live/dev554/az567h/130918.ts
+#EXTINF:-1,US: Cinemax More HD
+http://193.200.164.166:8000/live/dev554/az567h/137307.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://193.200.164.166:8000/live/dev554/az567h/130917.ts
+#EXTINF:-1,US: Comedy Central
+http://193.200.164.166:8000/live/dev554/az567h/137306.ts
+#EXTINF:-1,US: Comedy Central HD
+http://193.200.164.166:8000/live/dev554/az567h/137234.ts
+#EXTINF:-1,US: DIY Network
+http://193.200.164.166:8000/live/dev554/az567h/137406.ts
+#EXTINF:-1,US: DIY Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137405.ts
+#EXTINF:-1,US: DW
+http://193.200.164.166:8000/live/dev554/az567h/137404.ts
+#EXTINF:-1,US: Discovery Channel CA FHD
+http://193.200.164.166:8000/live/dev554/az567h/137416.ts
+#EXTINF:-1,US: Discovery Channel CA HD
+http://193.200.164.166:8000/live/dev554/az567h/137415.ts
+#EXTINF:-1,US: Daystar HD
+http://193.200.164.166:8000/live/dev554/az567h/137414.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://193.200.164.166:8000/live/dev554/az567h/137443.ts
+#EXTINF:-1,US: Discovery HD
+http://193.200.164.166:8000/live/dev554/az567h/137413.ts
+#EXTINF:-1,US: Discovery HD Showcase
+http://193.200.164.166:8000/live/dev554/az567h/137412.ts
+#EXTINF:-1,US: Discovery Science
+http://193.200.164.166:8000/live/dev554/az567h/137411.ts
+#EXTINF:-1,US: Discovery Science HD
+http://193.200.164.166:8000/live/dev554/az567h/137410.ts
+#EXTINF:-1,US: Discovery Showcase HD
+http://193.200.164.166:8000/live/dev554/az567h/137409.ts
+#EXTINF:-1,US: Discovery Velocity
+http://193.200.164.166:8000/live/dev554/az567h/137408.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://193.200.164.166:8000/live/dev554/az567h/137407.ts
+#EXTINF:-1,US: Disney Channel HD
+http://193.200.164.166:8000/live/dev554/az567h/137442.ts
+#EXTINF:-1,US: Disney XD HD
+http://193.200.164.166:8000/live/dev554/az567h/137441.ts
+#EXTINF:-1,US: E! Entertainment HD
+http://193.200.164.166:8000/live/dev554/az567h/137403.ts
+#EXTINF:-1,US: E! HD
+http://193.200.164.166:8000/live/dev554/az567h/137440.ts
+#EXTINF:-1,US: ESPN 1
+http://193.200.164.166:8000/live/dev554/az567h/137225.ts
+#EXTINF:-1,US: ESPN 1 HD
+http://193.200.164.166:8000/live/dev554/az567h/137224.ts
+#EXTINF:-1,US: ESPN 2
+http://193.200.164.166:8000/live/dev554/az567h/137223.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://193.200.164.166:8000/live/dev554/az567h/130891.ts
+#EXTINF:-1,US: ESPN HD
+http://193.200.164.166:8000/live/dev554/az567h/130892.ts
+#EXTINF:-1,US: ESPN NEWS
+http://193.200.164.166:8000/live/dev554/az567h/137324.ts
+#EXTINF:-1,US: ESPN U HD
+http://193.200.164.166:8000/live/dev554/az567h/137221.ts
+#EXTINF:-1,US: El Rey Network FHD
+http://193.200.164.166:8000/live/dev554/az567h/137402.ts
+#EXTINF:-1,US: El Rey Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137439.ts
+#EXTINF:-1,US: FX
+http://193.200.164.166:8000/live/dev554/az567h/137207.ts
+#EXTINF:-1,US: FX HD
+http://193.200.164.166:8000/live/dev554/az567h/137206.ts
+#EXTINF:-1,US: FXM HD
+http://193.200.164.166:8000/live/dev554/az567h/137205.ts
+#EXTINF:-1,US: FXX HD
+http://193.200.164.166:8000/live/dev554/az567h/137204.ts
+#EXTINF:-1,US: Family FHD
+http://193.200.164.166:8000/live/dev554/az567h/137401.ts
+#EXTINF:-1,US: Family HD
+http://193.200.164.166:8000/live/dev554/az567h/137400.ts
+#EXTINF:-1,US: Fashion One HD
+http://193.200.164.166:8000/live/dev554/az567h/137220.ts
+#EXTINF:-1,US: Fight HD
+http://193.200.164.166:8000/live/dev554/az567h/137219.ts
+#EXTINF:-1,US: Fight Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137218.ts
+#EXTINF:-1,US: Fight Sport
+http://193.200.164.166:8000/live/dev554/az567h/137217.ts
+#EXTINF:-1,US: Fine Living
+http://193.200.164.166:8000/live/dev554/az567h/137216.ts
+#EXTINF:-1,US: Food Network
+http://193.200.164.166:8000/live/dev554/az567h/130902.ts
+#EXTINF:-1,US: Food Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137215.ts
+#EXTINF:-1,US: Fox HD
+http://193.200.164.166:8000/live/dev554/az567h/130937.ts
+#EXTINF:-1,US: Fox News
+http://193.200.164.166:8000/live/dev554/az567h/130938.ts
+#EXTINF:-1,US: Fox News HD
+http://193.200.164.166:8000/live/dev554/az567h/137438.ts
+#EXTINF:-1,US: Fox News US HD
+http://193.200.164.166:8000/live/dev554/az567h/137397.ts
+#EXTINF:-1,US: FOX BUSINESS
+http://193.200.164.166:8000/live/dev554/az567h/169918.ts
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://193.200.164.166:8000/live/dev554/az567h/137395.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://193.200.164.166:8000/live/dev554/az567h/130890.ts
+#EXTINF:-1,US: Fox Sport 2 HD
+http://193.200.164.166:8000/live/dev554/az567h/130889.ts
+#EXTINF:-1,US: Fox Sports 1
+http://193.200.164.166:8000/live/dev554/az567h/137394.ts
+#EXTINF:-1,US: Fox Sports 1 HD
+http://193.200.164.166:8000/live/dev554/az567h/137437.ts
+#EXTINF:-1,US: Fox Sports 2 HD
+http://193.200.164.166:8000/live/dev554/az567h/137392.ts
+#EXTINF:-1,US: Fox Sports 506 HD
+http://193.200.164.166:8000/live/dev554/az567h/137391.ts
+#EXTINF:-1,US: Fox Sports Arizona HD
+http://193.200.164.166:8000/live/dev554/az567h/137390.ts
+#EXTINF:-1,US: Fox Sports Carolina HD
+http://193.200.164.166:8000/live/dev554/az567h/137389.ts
+#EXTINF:-1,US: Fox Sports College Central HD
+http://193.200.164.166:8000/live/dev554/az567h/137387.ts
+#EXTINF:-1,US: Fox Sports Florida HD
+http://193.200.164.166:8000/live/dev554/az567h/137385.ts
+#EXTINF:-1,US: Fox Sports North HD
+http://193.200.164.166:8000/live/dev554/az567h/137382.ts
+#EXTINF:-1,US: Fox Sports Ohio HD
+http://193.200.164.166:8000/live/dev554/az567h/137381.ts
+#EXTINF:-1,US: Fox Sports Plus HD
+http://193.200.164.166:8000/live/dev554/az567h/137380.ts
+#EXTINF:-1,US: Fox Sports San Diego HD
+http://193.200.164.166:8000/live/dev554/az567h/137379.ts
+#EXTINF:-1,US: Fox Sports South East HD
+http://193.200.164.166:8000/live/dev554/az567h/137378.ts
+#EXTINF:-1,US: Fox Sports South HD
+http://193.200.164.166:8000/live/dev554/az567h/137376.ts
+#EXTINF:-1,US: Fox Sports Sun HD
+http://193.200.164.166:8000/live/dev554/az567h/137375.ts
+#EXTINF:-1,US: Fox Sports West HD
+http://193.200.164.166:8000/live/dev554/az567h/137373.ts
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+http://193.200.164.166:8000/live/dev554/az567h/137372.ts
+#EXTINF:-1,US: Free Form HD
+http://193.200.164.166:8000/live/dev554/az567h/137211.ts
+#EXTINF:-1,US: FreeForm FHD
+http://193.200.164.166:8000/live/dev554/az567h/137210.ts
+#EXTINF:-1,US: Freeform HD
+http://193.200.164.166:8000/live/dev554/az567h/130925.ts
+#EXTINF:-1,US: Fuel HD
+http://193.200.164.166:8000/live/dev554/az567h/137208.ts
+#EXTINF:-1,US: GRIT HD
+http://193.200.164.166:8000/live/dev554/az567h/137201.ts
+#EXTINF:-1,US: GSN HD
+http://193.200.164.166:8000/live/dev554/az567h/137200.ts
+#EXTINF:-1,US: Gol TV HD
+http://193.200.164.166:8000/live/dev554/az567h/137202.ts
+#EXTINF:-1,US: H2
+http://193.200.164.166:8000/live/dev554/az567h/137199.ts
+#EXTINF:-1,US: HBO
+http://193.200.164.166:8000/live/dev554/az567h/130916.ts
+#EXTINF:-1,US: HBO Comedy
+http://193.200.164.166:8000/live/dev554/az567h/130915.ts
+#EXTINF:-1,US: HBO Comedy HD
+http://193.200.164.166:8000/live/dev554/az567h/137370.ts
+#EXTINF:-1,US: HBO East
+http://193.200.164.166:8000/live/dev554/az567h/137369.ts
+#EXTINF:-1,US: HBO Family
+http://193.200.164.166:8000/live/dev554/az567h/130914.ts
+#EXTINF:-1,US: HBO Family HD
+http://193.200.164.166:8000/live/dev554/az567h/137368.ts
+#EXTINF:-1,US: HBO HD
+http://193.200.164.166:8000/live/dev554/az567h/137367.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://193.200.164.166:8000/live/dev554/az567h/130913.ts
+#EXTINF:-1,US: HBO Signature HD
+http://193.200.164.166:8000/live/dev554/az567h/137366.ts
+#EXTINF:-1,US: HBO ZONE
+http://193.200.164.166:8000/live/dev554/az567h/130912.ts
+#EXTINF:-1,US: HGTV
+http://193.200.164.166:8000/live/dev554/az567h/137195.ts
+#EXTINF:-1,US: HGTV CA HD
+http://193.200.164.166:8000/live/dev554/az567h/137435.ts
+#EXTINF:-1,US: HGTV HD
+http://193.200.164.166:8000/live/dev554/az567h/137434.ts
+#EXTINF:-1,US: HIFI
+http://193.200.164.166:8000/live/dev554/az567h/137197.ts
+#EXTINF:-1,US: HLN HD
+http://193.200.164.166:8000/live/dev554/az567h/137363.ts
+#EXTINF:-1,US: Hallmark
+http://193.200.164.166:8000/live/dev554/az567h/137198.ts
+#EXTINF:-1,US: Hallmark Channel HD
+http://193.200.164.166:8000/live/dev554/az567h/137436.ts
+#EXTINF:-1,US: History
+http://193.200.164.166:8000/live/dev554/az567h/137196.ts
+#EXTINF:-1,US: History Channel
+http://193.200.164.166:8000/live/dev554/az567h/130901.ts
+#EXTINF:-1,US: History HD
+http://193.200.164.166:8000/live/dev554/az567h/137433.ts
+#EXTINF:-1,US: ID Extra HD
+http://193.200.164.166:8000/live/dev554/az567h/137360.ts
+#EXTINF:-1,US: ID HD
+http://193.200.164.166:8000/live/dev554/az567h/137432.ts
+#EXTINF:-1,US: IFC HD
+http://193.200.164.166:8000/live/dev554/az567h/137359.ts
+#EXTINF:-1,US: Investigation Discovery HD
+http://193.200.164.166:8000/live/dev554/az567h/137358.ts
+#EXTINF:-1,US: KTVU News
+http://193.200.164.166:8000/live/dev554/az567h/130924.ts
+#EXTINF:-1,US: Lifetime HD
+http://193.200.164.166:8000/live/dev554/az567h/137431.ts
+#EXTINF:-1,US: MLB HD
+http://193.200.164.166:8000/live/dev554/az567h/137357.ts
+#EXTINF:-1,US: MLB Network
+http://193.200.164.166:8000/live/dev554/az567h/137356.ts
+#EXTINF:-1,US: MLB Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137429.ts
+#EXTINF:-1,US: MSNBC FHD
+http://193.200.164.166:8000/live/dev554/az567h/137355.ts
+#EXTINF:-1,US: MSNBC HD
+http://193.200.164.166:8000/live/dev554/az567h/137428.ts
+#EXTINF:-1,US: MTV Base HD
+http://193.200.164.166:8000/live/dev554/az567h/137241.ts
+#EXTINF:-1,US: MTV HD
+http://193.200.164.166:8000/live/dev554/az567h/137239.ts
+#EXTINF:-1,US: MTV Rocks
+http://193.200.164.166:8000/live/dev554/az567h/137238.ts
+#EXTINF:-1,US: Mello TV
+http://193.200.164.166:8000/live/dev554/az567h/130922.ts
+#EXTINF:-1,US: NBA HD
+http://193.200.164.166:8000/live/dev554/az567h/130888.ts
+#EXTINF:-1,US: NBA TV FHD
+http://193.200.164.166:8000/live/dev554/az567h/137350.ts
+#EXTINF:-1,US: NBA TV HD
+http://193.200.164.166:8000/live/dev554/az567h/137427.ts
+#EXTINF:-1,US: NBC
+http://193.200.164.166:8000/live/dev554/az567h/137349.ts
+#EXTINF:-1,US: NBC FHD
+http://193.200.164.166:8000/live/dev554/az567h/137348.ts
+#EXTINF:-1,US: NBC Golf Channel HD
+http://193.200.164.166:8000/live/dev554/az567h/137346.ts
+#EXTINF:-1,US: NBC Golf HD
+http://193.200.164.166:8000/live/dev554/az567h/130887.ts
+#EXTINF:-1,US: NBC HD
+http://193.200.164.166:8000/live/dev554/az567h/130936.ts
+#EXTINF:-1,US: NBC HD  US
+http://193.200.164.166:8000/live/dev554/az567h/130935.ts
+#EXTINF:-1,US: NBC News HD
+http://193.200.164.166:8000/live/dev554/az567h/137345.ts
+#EXTINF:-1,US: NBC SN HD
+http://193.200.164.166:8000/live/dev554/az567h/137343.ts
+#EXTINF:-1,US: NBC Sports California HD
+http://193.200.164.166:8000/live/dev554/az567h/137342.ts
+#EXTINF:-1,US: NBC Sports Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137426.ts
+#EXTINF:-1,US: NBCSN
+http://193.200.164.166:8000/live/dev554/az567h/130934.ts
+#EXTINF:-1,US: NBCSN FHD
+http://193.200.164.166:8000/live/dev554/az567h/137261.ts
+#EXTINF:-1,US: NBCSN HD
+http://193.200.164.166:8000/live/dev554/az567h/137260.ts
+#EXTINF:-1,US: NFL Network
+http://193.200.164.166:8000/live/dev554/az567h/137259.ts
+#EXTINF:-1,US: NFL Network 1
+http://193.200.164.166:8000/live/dev554/az567h/137258.ts
+#EXTINF:-1,US: NFL Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137256.ts
+#EXTINF:-1,US: NFL Now HD
+http://193.200.164.166:8000/live/dev554/az567h/137255.ts
+#EXTINF:-1,US: NFL Redzone HD
+http://193.200.164.166:8000/live/dev554/az567h/137254.ts
+#EXTINF:-1,US: NHL Network
+http://193.200.164.166:8000/live/dev554/az567h/137253.ts
+#EXTINF:-1,US: NHL Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137251.ts
+#EXTINF:-1,US: Nat Geo Wild HD
+http://193.200.164.166:8000/live/dev554/az567h/137353.ts
+#EXTINF:-1,US: National Geographic
+http://193.200.164.166:8000/live/dev554/az567h/130900.ts
+#EXTINF:-1,US: Nick HD
+http://193.200.164.166:8000/live/dev554/az567h/137250.ts
+#EXTINF:-1,US: Nickelodeon HD
+http://193.200.164.166:8000/live/dev554/az567h/130920.ts
+#EXTINF:-1,US: OWN FHD
+http://193.200.164.166:8000/live/dev554/az567h/137278.ts
+#EXTINF:-1,US: OWN HD
+http://193.200.164.166:8000/live/dev554/az567h/137277.ts
+#EXTINF:-1,US: Oprah Winfrey Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137280.ts
+#EXTINF:-1,US: Outdoor Channel HD
+http://193.200.164.166:8000/live/dev554/az567h/137279.ts
+#EXTINF:-1,US: PAC-12 Arizona
+http://193.200.164.166:8000/live/dev554/az567h/137305.ts
+#EXTINF:-1,US: PBS HD
+http://193.200.164.166:8000/live/dev554/az567h/137272.ts
+#EXTINF:-1,US: Pick TV
+http://193.200.164.166:8000/live/dev554/az567h/137271.ts
+#EXTINF:-1,US: RT America HD
+http://193.200.164.166:8000/live/dev554/az567h/130899.ts
+#EXTINF:-1,US: RT Documentary
+http://193.200.164.166:8000/live/dev554/az567h/130898.ts
+#EXTINF:-1,US: Reelz HD
+http://193.200.164.166:8000/live/dev554/az567h/137270.ts
+#EXTINF:-1,US: SEC Network HD
+http://193.200.164.166:8000/live/dev554/az567h/137268.ts
+#EXTINF:-1,US: SUNDANCE FHD
+http://193.200.164.166:8000/live/dev554/az567h/137267.ts
+#EXTINF:-1,US: Science HD
+http://193.200.164.166:8000/live/dev554/az567h/137269.ts
+#EXTINF:-1,US: Showtime 2
+http://193.200.164.166:8000/live/dev554/az567h/137322.ts
+#EXTINF:-1,US: Showtime 2 HD
+http://193.200.164.166:8000/live/dev554/az567h/137302.ts
+#EXTINF:-1,US: Showtime East HD
+http://193.200.164.166:8000/live/dev554/az567h/137301.ts
+#EXTINF:-1,US: Showtime FHD
+http://193.200.164.166:8000/live/dev554/az567h/137300.ts
+#EXTINF:-1,US: Showtime Showcase HD
+http://193.200.164.166:8000/live/dev554/az567h/137299.ts
+#EXTINF:-1,US: Smile Of A Child
+http://193.200.164.166:8000/live/dev554/az567h/137298.ts
+#EXTINF:-1,US: Spike HD
+http://193.200.164.166:8000/live/dev554/az567h/130910.ts
+#EXTINF:-1,US: Spike TV HD
+http://193.200.164.166:8000/live/dev554/az567h/137297.ts
+#EXTINF:-1,US: SportsNet One HD
+http://193.200.164.166:8000/live/dev554/az567h/130885.ts
+#EXTINF:-1,US: Sportsnet East HD
+http://193.200.164.166:8000/live/dev554/az567h/137296.ts
+#EXTINF:-1,US: Sportsnet Ontario HD
+http://193.200.164.166:8000/live/dev554/az567h/137295.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://193.200.164.166:8000/live/dev554/az567h/130909.ts
+#EXTINF:-1,US: Starz Comedy
+http://193.200.164.166:8000/live/dev554/az567h/137291.ts
+#EXTINF:-1,US: Starz Edge
+http://193.200.164.166:8000/live/dev554/az567h/130908.ts
+#EXTINF:-1,US: Starz Edge HD
+http://193.200.164.166:8000/live/dev554/az567h/137290.ts
+#EXTINF:-1,US: Starz Encore
+http://193.200.164.166:8000/live/dev554/az567h/137289.ts
+#EXTINF:-1,US: Starz Encore HD
+http://193.200.164.166:8000/live/dev554/az567h/137288.ts
+#EXTINF:-1,US: Starz Kids & Family
+http://193.200.164.166:8000/live/dev554/az567h/137287.ts
+#EXTINF:-1,US: SyFy
+http://193.200.164.166:8000/live/dev554/az567h/137266.ts
+#EXTINF:-1,US: SyFy HD
+http://193.200.164.166:8000/live/dev554/az567h/130907.ts
+#EXTINF:-1,US: T.N.T FHD
+http://193.200.164.166:8000/live/dev554/az567h/137286.ts
+#EXTINF:-1,US: TBS
+http://193.200.164.166:8000/live/dev554/az567h/130931.ts
+#EXTINF:-1,US: TBS HD
+http://193.200.164.166:8000/live/dev554/az567h/130932.ts
+#EXTINF:-1,US: TLC
+http://193.200.164.166:8000/live/dev554/az567h/130897.ts
+#EXTINF:-1,US: TLC HD
+http://193.200.164.166:8000/live/dev554/az567h/137284.ts
+#EXTINF:-1,US: TNT
+http://193.200.164.166:8000/live/dev554/az567h/137321.ts
+#EXTINF:-1,US: TNT HD
+http://193.200.164.166:8000/live/dev554/az567h/130906.ts
+#EXTINF:-1,US: TSC
+http://193.200.164.166:8000/live/dev554/az567h/130930.ts
+#EXTINF:-1,US: TSN 1 HD
+http://193.200.164.166:8000/live/dev554/az567h/130883.ts
+#EXTINF:-1,US: TSN 2 HD
+http://193.200.164.166:8000/live/dev554/az567h/130882.ts
+#EXTINF:-1,US: TSN 3 HD
+http://193.200.164.166:8000/live/dev554/az567h/130881.ts
+#EXTINF:-1,US: TSN 4 HD
+http://193.200.164.166:8000/live/dev554/az567h/130880.ts
+#EXTINF:-1,US: TSN 5 HD
+http://193.200.164.166:8000/live/dev554/az567h/130879.ts
+#EXTINF:-1,US: Teletoon HD
+http://193.200.164.166:8000/live/dev554/az567h/137285.ts
+#EXTINF:-1,US: Travel Channel HD
+http://193.200.164.166:8000/live/dev554/az567h/137283.ts
+#EXTINF:-1,US: Treehouse HD
+http://193.200.164.166:8000/live/dev554/az567h/137282.ts
+#EXTINF:-1,US: UFC Fight Pass
+http://193.200.164.166:8000/live/dev554/az567h/137264.ts
+#EXTINF:-1,US: USA Network FHD
+http://193.200.164.166:8000/live/dev554/az567h/137247.ts
+#EXTINF:-1,US: Univision HD
+http://193.200.164.166:8000/live/dev554/az567h/137263.ts
+#EXTINF:-1,US: Univision Miami HD
+http://193.200.164.166:8000/live/dev554/az567h/137262.ts
+#EXTINF:-1,US: VH1 Classic
+http://193.200.164.166:8000/live/dev554/az567h/137244.ts
+#EXTINF:-1,US: Velocity HD
+http://193.200.164.166:8000/live/dev554/az567h/137245.ts
+#EXTINF:-1,US: WWE
+http://193.200.164.166:8000/live/dev554/az567h/130877.ts
+#EXTINF:-1,US: WWE HD
+http://193.200.164.166:8000/live/dev554/az567h/137341.ts
+#EXTINF:-1,US: WWE Network FHD
+http://193.200.164.166:8000/live/dev554/az567h/137340.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://193.200.164.166:8000/live/dev554/az567h/130878.ts
+#EXTINF:-1,US: World Fashion HD
+http://193.200.164.166:8000/live/dev554/az567h/130896.ts
+#EXTINF:-1,US: beIN SPORTS
+http://193.200.164.166:8000/live/dev554/az567h/137330.ts
+#EXTINF:-1,US: beINSports HD
+http://193.200.164.166:8000/live/dev554/az567h/137319.ts
+#EXTINF:-1,US: byu tv
+http://193.200.164.166:8000/live/dev554/az567h/137328.ts
+#EXTINF:-1,US: truTV HD
+http://193.200.164.166:8000/live/dev554/az567h/137281.ts
