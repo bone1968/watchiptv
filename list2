@@ -1,0 +1,441 @@
+ #EXTM3U
+#EXTINF:-1,US:tsn3
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1651
+#EXTINF:-1,US: TBS
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1639
+#EXTINF:-1,US:WWE us
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1657
+#EXTINF:-1,US:Tsn2
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1652
+#EXTINF:-1,US:Tsn4
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1650
+#EXTINF:-1,US:Tsn1
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1653
+#EXTINF:-1,US:Tsn5
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1649
+#EXTINF:-1,US:Syfy
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1637
+#EXTINF:-1,US:Snet360
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1654
+#EXTINF:-1,US:CNN
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1680
+#EXTINF:-1,US:Espn2
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1672
+#EXTINF:-1,US:Espn
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1670
+#EXTINF:-1,US:Fight Sports
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1669
+#EXTINF:-1,US:Food Network
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1668
+#EXTINF:-1,US:HBO HD
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1665
+#EXTINF:-1,US: History
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1662
+#EXTINF:-1,US:Fox Sports1
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1615
+#EXTINF:-1,US: NAT-GEO-HD
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1633
+#EXTINF:-1,US:NBA TV
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1631
+#EXTINF:-1,US:NBCSN HD
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1630
+#EXTINF:-1,US: Fox Sports2
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1648
+#EXTINF:-1,US:Fox News US
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2625
+#EXTINF:-1,US:Nat-Geo-Wild
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1632
+#EXTINF:-1,US:Abc News
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1618
+#EXTINF:-1,US: AMC
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1623
+#EXTINF:-1,USA FOX SPORTS 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts
+#EXTINF:-1,USA FOX SPORTS 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts
+#EXTINF:-1,NBA TV (US)
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1304.ts
+#EXTINF:-1,SPORTS NET EAST HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
+#EXTINF:-1,SPORTS NET ONE HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1827.ts
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1826.ts
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1825.ts
+#EXTINF:-1,SPORTS NET WEST HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1824.ts
+#EXTINF:-1,SPORTS NET WORLD HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1823.ts
+#EXTINF:-1,SPORTSNET 360
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1822.ts
+#EXTINF:-1,SPORTSNET EAST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1821.ts
+#EXTINF:-1,SPORTSNET ONE
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
+#EXTINF:-1,SPORTSNET ONE HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1829.ts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1818.ts
+#EXTINF:-1,SPORTSNET WEST
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1817.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1816.ts
+#EXTINF:-1,SPORTS NET 360 HD
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1815.ts
+#EXTINF:-1,4seven
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1880.ts
+#EXTINF:-1,5 USA
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1877.ts
+#EXTINF:-1,5STAR
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1876.ts
+#EXTINF:-1,alibi
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1855.ts
+#EXTINF:-1,TSN 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/176.ts
+#EXTINF:-1,TSN 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/177.ts
+#EXTINF:-1,TSN 3
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/178.ts
+#EXTINF:-1,TSN 4
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/179.ts
+#EXTINF:-1,TSN 5
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/180.ts
+#EXTINF:-1,WWE Network
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/243.ts
+#EXTINF:-1,USA: WWE_HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/3128.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2731.ts
+#EXTINF:-1,USA: ESPN HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2732.ts
+#EXTINF:-1,USA: ESPN 2
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2735.ts
+#EXTINF:-1,USA: AMC HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2733.ts
+#EXTINF:-1,USA: HBO HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/3130.ts
+#EXTINF:-1,USA: CBSN HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/3169.ts
+#EXTINF:-1,USA: GOLF HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/3168.ts
+#EXTINF:-1,USA: TBS HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/3167.ts
+#EXTINF:-1,USA: Discovery
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4180.ts
+#EXTINF:-1,USA: Discovery Science
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4178.ts
+#EXTINF:-1,USA: National Geographic
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4179.ts
+#EXTINF:-1,USA: TNT HD
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4206.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4359.ts
+#EXTINF:-1,USA: OXYGEN
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4276.ts
+#EXTINF:-1,USA: PAC-12 Arizona
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4357.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4358.ts
+#EXTINF:-1,USA: PAC-12 Washington
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4356.ts
+#EXTINF:-1,USA: SYFY
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4385.ts
+#EXTINF:-1,USA: Velocity
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/4919.ts
+#EXTINF:-1,USA: ABC News HD
+http://51.75.145.124:8000/yucel/15042018/19763
+#EXTINF:-1,USA: AMC HD
+http://51.75.145.124:8000/yucel/15042018/19753
+#EXTINF:-1,USA: BBC WORLD NEWS
+http://51.75.145.124:8000/yucel/15042018/19750
+#EXTINF:-1,USA: beIN Sports Connect Ñ HD
+http://51.75.145.124:8000/yucel/15042018/19739
+#EXTINF:-1,USA: Bloomberg HD
+http://51.75.145.124:8000/yucel/15042018/19733
+#EXTINF:-1,USA: Box Office Movies HD
+http://51.75.145.124:8000/yucel/15042018/19730
+#EXTINF:-1,USA: Bravo TV HD
+http://51.75.145.124:8000/yucel/15042018/19728
+#EXTINF:-1,USA: BET
+http://51.75.145.124:8000/yucel/15042018/21432
+#EXTINF:-1,USA: FIGHTBOX
+http://51.75.145.124:8000/yucel/15042018/21430
+#EXTINF:-1,USA: HALMARK
+http://51.75.145.124:8000/yucel/15042018/21429
+#EXTINF:-1,USA: HG TV
+http://51.75.145.124:8000/yucel/15042018/21428
+#EXTINF:-1,USA: ION
+http://51.75.145.124:8000/yucel/15042018/21427
+#EXTINF:-1,USA: NAT GEO
+http://51.75.145.124:8000/yucel/15042018/21426
+#EXTINF:-1,USA: SPIKE
+http://51.75.145.124:8000/yucel/15042018/21425
+#EXTINF:-1,USA: TOON KIDS
+http://51.75.145.124:8000/yucel/15042018/21424
+#EXTINF:-1,USA: TRU TV
+http://51.75.145.124:8000/yucel/15042018/21423
+#EXTINF:-1,USA: Cartoon Network HD
+http://51.75.145.124:8000/yucel/15042018/19719
+#EXTINF:-1,USA: CBS 2 HD
+http://51.75.145.124:8000/yucel/15042018/19717
+#EXTINF:-1,USA: CBS Sports (CBSSN) HD
+http://51.75.145.124:8000/yucel/15042018/19714
+#EXTINF:-1,USA: OUTDOOR CHANNEL
+http://51.75.145.124:8000/yucel/15042018/20500
+#EXTINF:-1,USA: PPV CARTOON 1
+http://51.75.145.124:8000/yucel/15042018/20495
+#EXTINF:-1,USA: PPV CARTOON 2
+http://51.75.145.124:8000/yucel/15042018/20496
+#EXTINF:-1,USA: PPV LOCA 1
+http://51.75.145.124:8000/yucel/15042018/20493
+#EXTINF:-1,USA: PPV LOCA 2
+http://51.75.145.124:8000/yucel/15042018/20569
+#EXTINF:-1,USA: Cinemax HD
+http://51.75.145.124:8000/yucel/15042018/19709
+#EXTINF:-1,USA: Cinemax Moremax
+http://51.75.145.124:8000/yucel/15042018/19708
+#EXTINF:-1,USA: CNBC HD
+http://51.75.145.124:8000/yucel/15042018/19706
+#EXTINF:-1,USA: CNN HD
+http://51.75.145.124:8000/yucel/15042018/19704
+#EXTINF:-1,USA: CBS NEWS
+http://51.75.145.124:8000/yucel/15042018/20011
+#EXTINF:-1,USA: Comedy Central HD
+http://51.75.145.124:8000/yucel/15042018/19703
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY
+http://51.75.145.124:8000/yucel/15042018/19701
+#EXTINF:-1,USA: CW 11 HD
+http://51.75.145.124:8000/yucel/15042018/19700
+#EXTINF:-1,USA: Discovery Channel HD
+http://51.75.145.124:8000/yucel/15042018/19696
+#EXTINF:-1,USA: Discovery Science HD
+http://51.75.145.124:8000/yucel/15042018/19695
+#EXTINF:-1,USA: Disney Channel HD
+http://51.75.145.124:8000/yucel/15042018/19693
+#EXTINF:-1,USA: Disney JR HD
+http://51.75.145.124:8000/yucel/15042018/19692
+#EXTINF:-1,USA: E! HD
+http://51.75.145.124:8000/yucel/15042018/19685
+#EXTINF:-1,USA: ESPN 2 HD
+http://51.75.145.124:8000/yucel/15042018/19677
+#EXTINF:-1,USA: ESPN U HD
+http://51.75.145.124:8000/yucel/15042018/19676
+#EXTINF:-1,USA: ESPN HD
+http://51.75.145.124:8000/yucel/15042018/19678
+#EXTINF:-1,USA: ESPN News HD
+http://51.75.145.124:8000/yucel/15042018/19680
+#EXTINF:-1,USA: HBO Family HD
+http://51.75.145.124:8000/yucel/15042018/19675
+#EXTINF:-1,USA: Fox HD
+http://51.75.145.124:8000/yucel/15042018/19663
+#EXTINF:-1,USA: Fox New York HD
+http://51.75.145.124:8000/yucel/15042018/19666
+#EXTINF:-1,USA: Fox News HD
+http://51.75.145.124:8000/yucel/15042018/19662
+#EXTINF:-1,USA: Fox Soccer Plus HD
+http://51.75.145.124:8000/yucel/15042018/19661
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://51.75.145.124:8000/yucel/15042018/19660
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://51.75.145.124:8000/yucel/15042018/19659
+#EXTINF:-1,USA: FX HD
+http://51.75.145.124:8000/yucel/15042018/19634
+#EXTINF:-1,USA: FXX HD
+http://51.75.145.124:8000/yucel/15042018/19632
+#EXTINF:-1,USA: USA NETWORK
+http://51.75.145.124:8000/yucel/15042018/19539
+#EXTINF:-1,USA: HBO 2 HD
+http://51.75.145.124:8000/yucel/15042018/19626
+#EXTINF:-1,USA: HBO Comedy HD
+http://51.75.145.124:8000/yucel/15042018/19624
+#EXTINF:-1,USA: HBO Family HD
+http://51.75.145.124:8000/yucel/15042018/19622
+#EXTINF:-1,USA: HBO Signature HD
+http://51.75.145.124:8000/yucel/15042018/19621
+#EXTINF:-1,USA: HBO Zone HD
+http://51.75.145.124:8000/yucel/15042018/19620
+#EXTINF:-1,USA: History HD
+http://51.75.145.124:8000/yucel/15042018/19617
+#EXTINF:-1,USA: Investigation Discovery HD
+http://51.75.145.124:8000/yucel/15042018/19611
+#EXTINF:-1,USA: MLB Boston Red Sox
+http://51.75.145.124:8000/yucel/15042018/19432
+#EXTINF:-1,USA: MLB Chicago Cubs
+http://51.75.145.124:8000/yucel/15042018/19431
+#EXTINF:-1,USA: MLB LA Angels
+http://51.75.145.124:8000/yucel/15042018/19430
+#EXTINF:-1,USA: MLB Network HD
+http://51.75.145.124:8000/yucel/15042018/19602
+#EXTINF:-1,USA: MoreMax
+http://51.75.145.124:8000/yucel/15042018/19601
+#EXTINF:-1,USA: MSG (Only during live events)
+http://51.75.145.124:8000/yucel/15042018/19598
+#EXTINF:-1,USA: MSNBC HD
+http://51.75.145.124:8000/yucel/15042018/19597
+#EXTINF:-1,USA: MTV HD
+http://51.75.145.124:8000/yucel/15042018/19596
+#EXTINF:-1,USA: TSN 1
+http://51.75.145.124:8000/yucel/15042018/21418
+#EXTINF:-1,USA: TSN 2
+http://51.75.145.124:8000/yucel/15042018/21419
+#EXTINF:-1,USA: TSN 3
+http://51.75.145.124:8000/yucel/15042018/21420
+#EXTINF:-1,USA: TSN 4
+http://51.75.145.124:8000/yucel/15042018/21421
+#EXTINF:-1,USA: TSN 5
+http://51.75.145.124:8000/yucel/15042018/21422
+#EXTINF:-1,USA: NBA TV HD
+http://51.75.145.124:8000/yucel/15042018/19592
+#EXTINF:-1,USA: NBA 1
+http://51.75.145.124:8000/yucel/15042018/21976
+#EXTINF:-1,USA: NBA 2
+http://51.75.145.124:8000/yucel/15042018/21977
+#EXTINF:-1,USA: NBA 3
+http://51.75.145.124:8000/yucel/15042018/21978
+#EXTINF:-1,USA: NBA 4
+http://51.75.145.124:8000/yucel/15042018/21979
+#EXTINF:-1,USA: NBA 5
+http://51.75.145.124:8000/yucel/15042018/21980
+#EXTINF:-1,USA: NBCSN HD
+http://51.75.145.124:8000/yucel/15042018/19581
+#EXTINF:-1,USA: SYFY HD
+http://51.75.145.124:8000/yucel/15042018/19535
+#EXTINF:-1,USA: TBS
+http://51.75.145.124:8000/yucel/15042018/19533
+#EXTINF:-1,USA: TLC HD
+http://51.75.145.124:8000/yucel/15042018/19523
+#EXTINF:-1,USA: TNT HD
+http://51.75.145.124:8000/yucel/15042018/19522
+#EXTINF:-1,USA: UFC Fight Pass HD
+http://51.75.145.124:8000/yucel/15042018/19514
+#EXTINF:-1,USA: Velocity HD
+http://51.75.145.124:8000/yucel/15042018/19511
+#EXTINF:-1,USA: WWE NETWORK HD
+http://51.75.145.124:8000/yucel/15042018/19504
+#EXTINF:-1,USA | Fox News HD
+http://195.154.214.187:2086/house/house/2111
+#EXTINF:-1,USA | CBS HD
+http://195.154.214.187:2086/house/house/2125
+#EXTINF:-1,USA | FOX HD
+http://195.154.214.187:2086/house/house/2112
+#EXTINF:-1,USA | FOX Sport 1 HD
+http://195.154.214.187:2086/house/house/2128
+#EXTINF:-1,USA | FOX Sport 2 HD
+http://195.154.214.187:2086/house/house/2110
+#EXTINF:-1,USA | AMC HD
+http://195.154.214.187:2086/house/house/2113
+#EXTINF:-1,USA | ABC News HD
+http://195.154.214.187:2086/house/house/2114
+#EXTINF:-1,USA | CNN International Live
+http://195.154.214.187:2086/house/house/2109
+#EXTINF:-1,USA | A E HD
+http://195.154.214.187:2086/house/house/2122
+#EXTINF:-1,USA | NBC HD
+http://195.154.214.187:2086/house/house/2119
+#EXTINF:-1,USA | NBA HD
+http://195.154.214.187:2086/house/house/2132
+#EXTINF:-1,USA | NBC Sports Network HD
+http://195.154.214.187:2086/house/house/2120
+#EXTINF:-1,USA | Nickelodeon HD
+http://195.154.214.187:2086/house/house/2131
+#EXTINF:-1,USA | ABC HD
+http://195.154.214.187:2086/house/house/2115
+#EXTINF:-1,USA | WWE HD
+http://195.154.214.187:2086/house/house/2130
+#EXTINF:-1,USA | ESPN HD
+http://195.154.214.187:2086/house/house/2129
+#EXTINF:-1,USA | HBO ZONE USA
+http://195.154.214.187:2086/house/house/2123
+#EXTINF:-1,USA | TBS HD
+http://195.154.214.187:2086/house/house/2116
+#EXTINF:-1,USA | CNBC HD
+http://195.154.214.187:2086/house/house/2117
+#EXTINF:-1,USA | CW HD
+http://195.154.214.187:2086/house/house/2121
+#EXTINF:-1,USA | TNT HD
+http://195.154.214.187:2086/house/house/2133
+#EXTINF:-1,USA | HBO Signature HD
+http://195.154.214.187:2086/house/house/2901
+#EXTINF:-1,USA | ESPN News HD
+http://195.154.214.187:2086/house/house/2906
+#EXTINF:-1,USA | CBS_drama
+http://195.154.214.187:2086/house/house/2903
+#EXTINF:-1,USA | ESPN Deportes HD
+http://195.154.214.187:2086/house/house/2909
+#EXTINF:-1,USA | ESPN 2 HD
+http://195.154.214.187:2086/house/house/2908
+#EXTINF:-1,USA | FXX HD
+http://195.154.214.187:2086/house/house/2900
+#EXTINF:-1,USA | HBO Comedy HD
+http://195.154.214.187:2086/house/house/2902
+#EXTINF:-1,USA | NFL Channel HD
+http://195.154.214.187:2086/house/house/2905
+#EXTINF:-1,USA | HBO HD
+http://195.154.214.187:2086/house/house/2904
+#EXTINF:-1,USA |Action Max HD
+http://195.154.214.187:2086/house/house/4290
+#EXTINF:-1,USA |Animal Planet
+http://195.154.214.187:2086/house/house/4304
+#EXTINF:-1,USA |Bein Sports
+http://195.154.214.187:2086/house/house/4289
+#EXTINF:-1,USA |Bloomberg
+http://195.154.214.187:2086/house/house/4305
+#EXTINF:-1,USA |Cartoon Network
+http://195.154.214.187:2086/house/house/4306
+#EXTINF:-1,USA |CBS Sports Network HD
+http://195.154.214.187:2086/house/house/4301
+#EXTINF:-1,USA |Comedy Central
+http://195.154.214.187:2086/house/house/4293
+#EXTINF:-1,USA |Discovery HD
+http://195.154.214.187:2086/house/house/4288
+#EXTINF:-1,Discovery Science HD USA
+http://195.154.214.187:2086/house/house/4307
+#EXTINF:-1,USA |E!
+http://195.154.214.187:2086/house/house/4308
+#EXTINF:-1,USA |ESPN U HD
+http://195.154.214.187:2086/house/house/4302
+#EXTINF:-1,USA |Fight Box Network
+http://195.154.214.187:2086/house/house/4271
+#EXTINF:-1,USA |FX
+http://195.154.214.187:2086/house/house/4287
+#EXTINF:-1,USA |NBC GOLF
+http://195.154.214.187:2086/house/house/4300
+#EXTINF:-1,HGTV
+http://195.154.214.187:2086/house/house/4314
+#EXTINF:-1,USA |History
+http://195.154.214.187:2086/house/house/4286
+#EXTINF:-1,USA |Investigation Discovery HD
+http://195.154.214.187:2086/house/house/4285
+#EXTINF:-1,USA |MLB Network HD
+http://195.154.214.187:2086/house/house/4280
+#EXTINF:-1,USA |Cinemax MoreMax HD
+http://195.154.214.187:2086/house/house/4284
+#EXTINF:-1,USA |National Geographic
+http://195.154.214.187:2086/house/house/4303
+#EXTINF:-1,USA |NHL Network HD
+http://195.154.214.187:2086/house/house/4299
+#EXTINF:-1,USA |Showtime HD
+http://195.154.214.187:2086/house/house/4282
+#EXTINF:-1,USA |Spike HD
+http://195.154.214.187:2086/house/house/4283
+#EXTINF:-1,USA | HBO Zone
+http://195.154.214.187:2086/house/house/4309
+#EXTINF:-1,USA |Tennis Channel HD
+http://195.154.214.187:2086/house/house/4298
+#EXTINF:-1,USA |TLC HD
+http://195.154.214.187:2086/house/house/4311
+#EXTINF:-1,USA |TSN 5 HD
+http://195.154.214.187:2086/house/house/4291
+#EXTINF:-1,USA |Univision Deportes
+http://195.154.214.187:2086/house/house/4312
+#EXTINF:-1,USA |USA Network
+http://195.154.214.187:2086/house/house/4281
+#EXTINF:-1,USA |Viceland
+http://195.154.214.187:2086/house/house/4313
+#EXTINF:-1,USA |Willow Cricket HD
+http://195.154.214.187:2086/house/house/4310
+#EXTINF:-1,USA |WWE Network HD
+http://195.154.214.187:2086/house/house/4297
